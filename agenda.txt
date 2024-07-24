@@ -1,0 +1,4 @@
+Data|Reunião|Realizada
+2024-07-15|tese11|True
+2024-07-16|teste de atividade|False
+2024-07-17|ahhh|False
